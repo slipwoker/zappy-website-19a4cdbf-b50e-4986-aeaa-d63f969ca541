@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### עוגת שמרים
-https://example.com/product/avgt-shmrym-9nfp5g
+https://example.com/product/avgt-shmrym-bc4b63
 - Price: 35.00 ILS
 - Availability: In stock
 - Description: עוגת שמרים שוקולד וקינמון פרווה רכה ואוורירית

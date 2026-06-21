@@ -1920,6 +1920,16 @@ Description: המוצרים שלנו - N&M Bakery
 
 
 
+הוסף את תוכן הטקסט שלך כאן. זהו טקסט ממלא מקום שניתן לערוך.
+
+
+
+
+
+
+
+
+
 
 
 מאפייה ארטיזנלית המייצרת לחמים, מאפים וקינוחים בעבודת יד, באהבה ובכבוד לחומרי הגלם. כל מוצר נאפה טרי מדי בוקר.
@@ -5486,7 +5496,7 @@ Description: N&M Bakery - תודה על פנייתך
 ## Product Catalog
 
 ### עוגת שמרים
-URL: https://example.com/product/avgt-shmrym-9nfp5g
+URL: https://example.com/product/avgt-shmrym-bc4b63
 Price: 35.00 ILS
 Availability: In stock
 
