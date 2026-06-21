@@ -76,14 +76,42 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 5**
+
+### חלות
+https://example.com/product/chlvt-3wg8dw
+- Price: 20.00 ILS
+- Availability: In stock
+- Description: חלות עם סומסום אווריריות וגבוהות
+- Image: https://example.com/assets/product-1782068316384-0j0bpqtp.webp
 
 ### עוגת שמרים
-https://example.com/product/avgt-shmrym-bc4b63
+https://example.com/product/avgt-shmrym-xwsj75
 - Price: 35.00 ILS
 - Availability: In stock
-- Description: עוגת שמרים שוקולד וקינמון פרווה רכה ואוורירית
-- Image: https://example.com/assets/product-1782066413020-vgz3tl.webp
+- Description: עוגת שמרים שוקולד וקינמון רכה ואוורירית פרווה
+- Image: https://example.com/assets/product-1782067962849-ahdw0d.webp
+
+### עוגת שוקולד
+https://example.com/product/avgt-shvkvld-9a31kq
+- Price: 25.00 ILS
+- Availability: In stock
+- Description: עוגת שוקולד רכה ואוורירית פרווה
+- Image: https://example.com/assets/product-1782067817517-4iyzzd.webp
+
+### עוגת שיש
+https://example.com/product/avgt-shysh-aca8fu
+- Price: 25.00 ILS
+- Availability: In stock
+- Description: עוגת שיש רכה ואוורירית פרווה
+- Image: https://example.com/assets/product-1782067609984-5varas.webp
+
+### עוגת תפוזים
+https://example.com/product/avgt-tpvzym-uaacsp
+- Price: 25.00 ILS
+- Availability: In stock
+- Description: עוגת תפוזים רכה ואוורירית פרווה
+- Image: https://example.com/assets/product-1782067213307-p2jpok.webp
 
 ---
 

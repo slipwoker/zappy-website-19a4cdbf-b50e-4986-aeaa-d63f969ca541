@@ -4,15 +4,63 @@
     <title>N&amp;M Bakery</title>
     <link>https://example.com</link>
     <description>Product feed for N&amp;M Bakery</description>
-    <lastBuildDate>Sun, 21 Jun 2026 18:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:05:49 GMT</lastBuildDate>
     <item>
-      <g:id>7faea1e1-1e25-4b83-b057-28d6838db2a0</g:id>
+      <g:id>ae97539c-0056-45e1-9c01-e97883a38958</g:id>
+      <g:title>חלות</g:title>
+      <g:description>חלות עם סומסום אווריריות וגבוהות</g:description>
+      <g:link>https://example.com/product/chlvt-3wg8dw</g:link>
+      <g:image_link>https://example.com/assets/product-1782068316384-0j0bpqtp.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>N&amp;M Bakery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>41286492-ba32-48cf-8175-42f4a62fa4e7</g:id>
       <g:title>עוגת שמרים</g:title>
-      <g:description>עוגת שמרים שוקולד וקינמון פרווה רכה ואוורירית</g:description>
-      <g:link>https://example.com/product/avgt-shmrym-bc4b63</g:link>
-      <g:image_link>https://example.com/assets/product-1782066413020-vgz3tl.webp</g:image_link>
+      <g:description>עוגת שמרים שוקולד וקינמון רכה ואוורירית פרווה</g:description>
+      <g:link>https://example.com/product/avgt-shmrym-xwsj75</g:link>
+      <g:image_link>https://example.com/assets/product-1782067962849-ahdw0d.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>N&amp;M Bakery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d71b630c-9cda-4ef5-b230-1d5814b5c7c2</g:id>
+      <g:title>עוגת שוקולד</g:title>
+      <g:description>עוגת שוקולד רכה ואוורירית פרווה</g:description>
+      <g:link>https://example.com/product/avgt-shvkvld-9a31kq</g:link>
+      <g:image_link>https://example.com/assets/product-1782067817517-4iyzzd.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>N&amp;M Bakery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b91afbd1-631a-41ff-ab7b-6bfc3cd14300</g:id>
+      <g:title>עוגת שיש</g:title>
+      <g:description>עוגת שיש רכה ואוורירית פרווה</g:description>
+      <g:link>https://example.com/product/avgt-shysh-aca8fu</g:link>
+      <g:image_link>https://example.com/assets/product-1782067609984-5varas.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>N&amp;M Bakery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>7faea1e1-1e25-4b83-b057-28d6838db2a0</g:id>
+      <g:title>עוגת תפוזים</g:title>
+      <g:description>עוגת תפוזים רכה ואוורירית פרווה</g:description>
+      <g:link>https://example.com/product/avgt-tpvzym-uaacsp</g:link>
+      <g:image_link>https://example.com/assets/product-1782067213307-p2jpok.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>N&amp;M Bakery</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
