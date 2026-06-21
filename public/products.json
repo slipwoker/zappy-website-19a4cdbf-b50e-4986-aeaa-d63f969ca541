@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T19:09:35.397Z",
+  "generated_at": "2026-06-21T19:16:25.686Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 5,
   "products": [
     {
       "id": "ae97539c-0056-45e1-9c01-e97883a38958",
-      "slug": "chlvt-3wg8dw",
+      "slug": "chlvt-d2soei",
       "name": "חלות",
       "name_translations": {},
       "description": "",
-      "short_description": "חלות עם סומסום אווריריות וגבוהות",
+      "short_description": "חלות עם סומסום אווריריות וגבוהות יחידה 20₪\n\nאזל המלאי !!\n",
       "sku": null,
       "brand": null,
       "price": 20,
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlvt-3wg8dw",
+      "url": "https://example.com/product/chlvt-d2soei",
       "categories": [],
-      "updated_at": "2026-06-21T19:00:31.166Z"
+      "updated_at": "2026-06-21T19:15:31.777Z"
     },
     {
       "id": "41286492-ba32-48cf-8175-42f4a62fa4e7",

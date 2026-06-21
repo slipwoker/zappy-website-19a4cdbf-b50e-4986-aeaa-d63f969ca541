@@ -79,10 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 5**
 
 ### חלות
-https://example.com/product/chlvt-3wg8dw
+https://example.com/product/chlvt-d2soei
 - Price: 20.00 ILS
 - Availability: In stock
-- Description: חלות עם סומסום אווריריות וגבוהות
+- Description: חלות עם סומסום אווריריות וגבוהות יחידה 20₪ אזל המלאי !!
 - Image: https://example.com/assets/product-1782068316384-0j0bpqtp.webp
 
 ### עוגת שמרים
