@@ -4,6 +4,18 @@
     <title>N&amp;M Bakery</title>
     <link>https://example.com</link>
     <description>Product feed for N&amp;M Bakery</description>
-    <lastBuildDate>Sun, 21 Jun 2026 18:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:33:29 GMT</lastBuildDate>
+    <item>
+      <g:id>7faea1e1-1e25-4b83-b057-28d6838db2a0</g:id>
+      <g:title>עוגת שמרים</g:title>
+      <g:description>עוגת שמרים שוקולד וקינמון פרווה רכה ואוורירית</g:description>
+      <g:link>https://example.com/product/avgt-shmrym-9nfp5g</g:link>
+      <g:image_link>https://example.com/assets/product-1782066413020-vgz3tl.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>N&amp;M Bakery</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T18:20:46.903Z",
+  "generated_at": "2026-06-21T18:33:29.178Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "7faea1e1-1e25-4b83-b057-28d6838db2a0",
+      "slug": "avgt-shmrym-9nfp5g",
+      "name": "עוגת שמרים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עוגת שמרים שוקולד וקינמון פרווה רכה ואוורירית",
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782066413020-vgz3tl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/avgt-shmrym-9nfp5g",
+      "categories": [],
+      "updated_at": "2026-06-21T18:29:38.899Z"
+    }
+  ]
 }

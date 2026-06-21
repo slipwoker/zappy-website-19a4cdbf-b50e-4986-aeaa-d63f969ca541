@@ -5483,3 +5483,12 @@ Description: N&M Bakery - תודה על פנייתך
 
 ---
 
+## Product Catalog
+
+### עוגת שמרים
+URL: https://example.com/product/avgt-shmrym-9nfp5g
+Price: 35.00 ILS
+Availability: In stock
+
+---
+
