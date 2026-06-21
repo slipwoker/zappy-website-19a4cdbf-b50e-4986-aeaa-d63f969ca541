@@ -1,0 +1,106 @@
+# N&M Bakery — Generative Engine Optimization Map
+
+> A homemade artisan cake business specializing in handcrafted cakes for Shabbat. The brand revolves around traditional Jewish weekly celebrations, offering lovingly made-by-hand baked goods that bring warmth and sweetness to the Shabbat table. The business likely appeals to families and individuals seeking authentic, personal-touch baked treats for their Shabbat gatherings.
+
+---
+
+## Pages
+
+### בית
+https://n-m-bakery-19a4cdbf.zappy5.app
+גלו עולם של מתיקות עם עוגות שבת כשרות בעבודת יד, מאפים ביתיים מפנקים שמוסיפים אור וטעם לשולחן השבת שלכם. הזמינו עכשיו עוגה מושלמת לכל המשפחה ותתחילו לחגוג.
+
+### אודות
+https://n-m-bakery-19a4cdbf.zappy5.app/about
+הכירו את המסע שלנו במאפיית N&amp;M: אהבה אמיתית לעבודת יד, מתכונים משפחתיים ושליחות להביא את המתיקות הכי אותנטית לשולחן השבת שלכם. בואו להתחבר למסורת דרך הטעם.
+
+### גלריה
+https://n-m-bakery-19a4cdbf.zappy5.app/gallery
+צללו לגלריה של עוגות שבת בעבודת יד, כל אחת סיפור של צבע, מרקם ואהבה. קבלו רעיונות לקינוח שיהפוך את השבת שלכם לחגיגה אמיתית — והזמינו את החלום שלכם עוד היום.
+
+### צור קשר
+https://n-m-bakery-19a4cdbf.zappy5.app/contact
+מוכנים להמתיק את השבת? צרו קשר להזמנת עוגות שבת כשרות בעבודת יד, שאלות או בקשות מיוחדות. אנחנו כאן כדי להביא את הטעם הביתי ישירות אליכם — שלחו הודעה ונתחיל לתכנן.
+
+### Products
+https://n-m-bakery-19a4cdbf.zappy5.app/products
+המוצרים שלנו - N&M Bakery
+
+### Cart
+https://n-m-bakery-19a4cdbf.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://n-m-bakery-19a4cdbf.zappy5.app/checkout
+תשלום
+
+### Login
+https://n-m-bakery-19a4cdbf.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://n-m-bakery-19a4cdbf.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://n-m-bakery-19a4cdbf.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://n-m-bakery-19a4cdbf.zappy5.app/product/:slug
+פרטי המוצר - N&M Bakery
+
+### Category
+https://n-m-bakery-19a4cdbf.zappy5.app/category/:slug
+מוצרים - N&M Bakery
+
+### תודה על פנייתך
+https://n-m-bakery-19a4cdbf.zappy5.app/thank-you
+N&M Bakery - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://n-m-bakery-19a4cdbf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://n-m-bakery-19a4cdbf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://n-m-bakery-19a4cdbf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About N&M Bakery
+A homemade artisan cake business specializing in handcrafted cakes for Shabbat. The brand revolves around traditional Jewish weekly celebrations, offering lovingly made-by-hand baked goods that bring warmth and sweetness to the Shabbat table. The business likely appeals to families and individuals seeking authentic, personal-touch baked treats for their Shabbat gatherings.
+
+## Target Audience
+- משפחות ואנשים המחפשים עוגות לשבת
+- משפחות חובבות עוגות שבת
+- שומרי כשרות חובבי עוגות בעבודת יד
+- פודיז מקומיים אוהבי מאפים בעבודת יד
+- מחפשי מתנות גורמה לשבת
+
+## Industry
+Bakery & Handmade Food
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://n-m-bakery-19a4cdbf.zappy5.app/sitemap.xml
+- Robots: https://n-m-bakery-19a4cdbf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://n-m-bakery-19a4cdbf.zappy5.app/llms-full.txt
+- Products (JSON): https://n-m-bakery-19a4cdbf.zappy5.app/products.json
+- Products (Google Merchant RSS): https://n-m-bakery-19a4cdbf.zappy5.app/product-feed.xml
