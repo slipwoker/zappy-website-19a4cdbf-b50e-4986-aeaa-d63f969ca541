@@ -363,7 +363,7 @@
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "19a4cdbf-b50e-4986-aeaa-d63f969ca541";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "19a4cdbf-b50e-4986-aeaa-d63f969ca541";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1052,10 +1052,10 @@
         <div class="index-testimonials-section__card-inner">
           <div class="index-testimonials-section__card-accent" aria-hidden="true"></div>
           <blockquote class="index-testimonials-section__quote">
-            <p >"הזמנתי עוגת שוקולד כשרה לשבת לאירוח משפחתי וכולם התלהבו. המרקם היה אוורירי, הטעם עשיר ומדויק, ורואים שכל מרכיב נבחר בקפידה. אין ספק שהזמנתי שוב — זו המתנה הכי יפה שאפשר להביא למארחים."</p>
+            <p style="cursor: text;">"הזמנתי עוגת שוקולד כשרה לשבת לאירוח משפחתי וכולם התלהבו. המרקם היה אוורירי, הטעם עשיר ומדויק, ורואים שכל מרכיב נבחר בקפידה. אין ספק שהזמנתי שוב — זו המתנה הכי יפה שאפשר להביא למארחים."</p>
             <footer class="index-testimonials-section__attribution">
               <cite class="index-testimonials-section__name">דוד לוי</cite>
-              <span class="index-testimonials-section__role" >תל אביב</span>
+              <span class="index-testimonials-section__role" style="cursor: text;">תל אביב</span>
             </footer>
           </blockquote>
         </div>
@@ -1120,12 +1120,12 @@
       
       <!-- Small tile - Sliced Serving -->
       <div class="index-gallery-section__item index-gallery-section__item--small zappy-grid-item-media-only" data-grid-item-index="6">
-        <img loading="lazy" decoding="async" data-placeholder="index-gallery-image-2" data-context="A slice of rich chocolate babka on a vintage ceramic plate, with crumbs scattered artfully, warm golden hour lighting" width="400" height="300" src="/assets/site-index-gallery-image-2.webp" alt="פרוסת עוגת באבקה שוקולד על צלחת קרמיקה" data-element-type="image" data-element-id="img-1782068599605-x0vvkef3x" >
+        <img loading="lazy" decoding="async" data-placeholder="index-gallery-image-2" data-context="A slice of rich chocolate babka on a vintage ceramic plate, with crumbs scattered artfully, warm golden hour lighting" width="400" height="300" src="/assets/site-index-gallery-image-2.webp" alt="פרוסת עוגת באבקה שוקולד על צלחת קרמיקה" data-element-type="image" data-element-id="img-1782068599605-x0vvkef3x" style="">
       </div>
       
       <!-- Medium tile - Gifting Box -->
       <div class="index-gallery-section__item index-gallery-section__item--medium zappy-grid-item-media-only" data-grid-item-index="7">
-        <img loading="lazy" decoding="async" data-placeholder="index-gallery-image-3" data-context="A beautifully wrapped artisan cake box tied with linen ribbon and a sprig of dried lavender, placed on a marble countertop, bright airy kitchen background" width="600" height="500" src="/assets/site-index-gallery-image-3.webp" alt="קופסת עוגה מהודרת עטופה בסרט פשתן ולבנדר" data-element-type="image" data-element-id="img-1782068599605-cnic26vq3" >
+        <img loading="lazy" decoding="async" data-placeholder="index-gallery-image-3" data-context="A beautifully wrapped artisan cake box tied with linen ribbon and a sprig of dried lavender, placed on a marble countertop, bright airy kitchen background" width="600" height="500" src="/assets/site-index-gallery-image-3.webp" alt="קופסת עוגה מהודרת עטופה בסרט פשתן ולבנדר" data-element-type="image" data-element-id="img-1782068599605-cnic26vq3" style="">
       </div>
 
       <!-- Small tile - Table Scene -->
@@ -1158,7 +1158,7 @@
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <filter id="index-gallery-torn-shadow" x="-5%" y="-5%" width="110%" height="120%">
-          <fedropshadow dx="0" dy="-3" stdDeviation="4" flood-color="#000000" flood-opacity="0.15"></fedropshadow>
+          <feDropShadow dx="0" dy="-3" stdDeviation="4" flood-color="#000000" flood-opacity="0.15"></feDropShadow>
         </filter>
       </defs>
       <path d="M0,80 L0,35 Q40,28 80,38 T160,32 Q200,40 240,35 T320,42 Q360,35 400,38 T480,32 Q520,40 560,35 T640,38 Q680,32 720,40 T800,35 Q840,42 880,38 T960,32 Q1000,40 1040,35 T1120,42 Q1160,35 1200,38 L1200,80 Z" fill="#6B2D1A" filter="url(#index-gallery-torn-shadow)"></path>
@@ -1204,7 +1204,7 @@
     <div class="footer-top">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/n-m-bakery-bakery-handmade-food-logo.webp" alt="N&amp;M Bakery" class="logo">
+        <img src="/assets/n-m-bakery-bakery-handmade-food-logo.webp" alt="N&amp;M Bakery" class="logo" data-element-type="image" data-element-id="img-1782068938379-zt4zjijhz" data-zappy-footer-image="true" style="">
         <p class="company-blurb">מאפייה ארטיזנלית המייצרת לחמים, מאפים וקינוחים בעבודת יד, באהבה ובכבוד לחומרי הגלם. כל מוצר נאפה טרי מדי בוקר.</p>
       </div>
 
@@ -1224,11 +1224,11 @@
         <h4>צור קשר</h4>
         <ul class="footer-contact">
           <li>
-            <span class="contact-icon"><i class="fas fa-envelope"></i></span>
+            <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1782068938375-e5qowrq31" data-icon-type="fontawesome"></i></span>
             <span class="contact-text"><a href="mailto:nanimasuri3008@gmail.com">nanimasuri3008@gmail.com</a></span>
           </li>
           <li>
-            <span class="contact-icon"><i class="fas fa-phone"></i></span>
+            <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1782068938375-blr3fl3jk" data-icon-type="fontawesome"></i></span>
             <span class="contact-text"><a href="tel:0526262499">0526262499</a></span>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
@@ -1239,9 +1239,7 @@
       <!-- Business Hours -->
       <div class="footer-col footer-hours-col">
         <h4>שעות פעילות</h4>
-        <ul class="footer-hours"><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></a></li>
-<li><a href="/"><span class="hours-day">ימים ב’–ו’</span> <span class="hours-time">09:00–17:00</span></a></li>
-<li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
+        <ul class="footer-hours" style=""><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></a></li><li><a href="/"><span class="hours-day">ימים ב’–ו’</span> <span class="hours-time">08:00–15:00</span></a></li><li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
       </div>
 
       <!-- Social Media -->
@@ -1249,8 +1247,8 @@
         <h4>עקבו אחרינו</h4>
         <div class="footer-social">
           <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
-          <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
+          <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1782068938375-2ij63t5j3" data-icon-type="fontawesome"></i></a>
+          <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp" data-element-type="icon" data-element-id="icon-1782068938375-ztcomrnr2" data-icon-type="fontawesome"></i></a>
         </div>
       </div>
     </div>
@@ -1269,8 +1267,8 @@
             </a></li>
           <li><a href="/accessibility">נגישות</a></li>
         </ul>
-        <a href="https://zappy5.com" target="_blank" class="zappy-attribution">נוצר באמצעות Zappy</a>
-      </div>
+        <p class="zappy-editable"><a href="https://zappy5.com" target="_blank" class="zappy-attribution">נוצר באמצעות Zappy</a>
+      </p></div>
     </div>
   </div>
 </footer>
